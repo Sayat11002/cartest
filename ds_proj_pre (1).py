@@ -27,7 +27,7 @@ if theme == "Light mode":
     hover_color = "#d1cfc7"
 else:
     background_color = "#1e1e1e"
-    text_color = "#f0f0f0"
+    text_color = "#808000"
     button_color = "#333333"
     hover_color = "#444444"
 
